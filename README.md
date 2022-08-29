@@ -1,8 +1,10 @@
 # Simple Calculator: Homework 1 Group 35
 
 [![Contributors][contributors]][contributors-url]
-![last commit][last-commit]
-![license][license]
+[![tests][tests]][tests-url]
+[![zenodo][zenodo]][zenodo-url]
+[![last commit][last-commit]][last-commit-url]
+[![license][license]][license-url]
 ![files][files]
 ![forks][forks]
 ![stars][stars]
@@ -70,6 +72,9 @@ This project is distributed under the Apache License. See `LICENSE.txt` for more
 <hr />
 
 ## Zenodo DOI
+Click on the badge below to view the Zenodo DOI page for this project. 
+
+[![zenodo][zenodo]][zenodo-url]
 
 <hr />
 
@@ -79,8 +84,10 @@ This project is distributed under the Apache License. See `LICENSE.txt` for more
 [contributors-url]: https://github.com/maya-dc-patel/csc510-g35-hw1/graphs/contributors
 
 [last-commit]: https://img.shields.io/github/last-commit/maya-dc-patel/csc510-g35-hw1
+[last-commit-url]: https://github.com/maya-dc-patel/csc510-g35-hw1/commits/main
 
 [license]: https://img.shields.io/badge/license-Apache-blue
+[license-url]: https://github.com/maya-dc-patel/csc510-g35-hw1/blob/main/LICENSE
 
 [files]: https://img.shields.io/github/directory-file-count/maya-dc-patel/csc510-g35-hw1
 
@@ -92,3 +99,9 @@ This project is distributed under the Apache License. See `LICENSE.txt` for more
 
 [python]: https://img.shields.io/badge/python-%3E%3D3.0-blue
 [python-url]: https://www.python.org/
+
+[tests]: https://img.shields.io/badge/tests-4%20passed%2C%200%20failed-blue
+[tests-url]: https://github.com/maya-dc-patel/csc510-g35-hw1/tree/main/test
+
+[zenodo]: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7030389-blue
+[zenodo-url]: https://zenodo.org/record/7030389
