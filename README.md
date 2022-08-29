@@ -51,13 +51,13 @@ This project can be used to perform basic calculator functions like adding, subt
 
 This project has the following contributors:
 
-|    | Contributor            | GitHub ID     |
-| -- | ---------------------- | ------------- |
-|  1 | Cheerla, Sanjana       | Stoir         |
-|  2 | Ganesh, Saail Gurunath | SaailGanesh   |
-|  3 | Pardeshi, Sourabh      |               |
-|  4 | Patel, Maya            | maya-dc-patel |
-|  5 | Xin, Vincent           | Culcheese     |
+|    | Contributor            | GitHub ID       |
+| -- | ---------------------- | ----------------|
+|  1 | Cheerla, Sanjana       | Stoir           |
+|  2 | Ganesh, Saail Gurunath | SaailGanesh     |
+|  3 | Pardeshi, Sourabh      | SourabhPardeshi |
+|  4 | Patel, Maya            | maya-dc-patel   |
+|  5 | Xin, Vincent           | Culcheese       |
 
 For a more detailed document on contributions see `CONTRIBUTING.md`.
 
