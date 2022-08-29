@@ -3,11 +3,11 @@
 Thank you for visiting this page on how to contribute to this project!
 
 ## Table of contents
-[Reporting bugs](#reporting-bugs)
-[Suggesting Enhancements](#suggesting-enhancements)
-[Code of Conduct](#code-of-conduct)
-[Styleguides](#styleguides)
-[Sources](#sources)
+[Reporting bugs](#reporting-bugs)  
+[Suggesting Enhancements](#suggesting-enhancements)  
+[Code of Conduct](#code-of-conduct)  
+[Styleguides](#styleguides)  
+[Sources](#sources)  
 
 #### Links to resources
 
@@ -21,6 +21,8 @@ These are the following steps for reporting a bug:
 Fill out this google form: 
 
 #### Pull Requests
+- Follow the Styleguides
+- Engage the community in working towards the best possible Simple Calculator
 
 #### Suggesting enhancements
 Check the current list of suggested enhancements
