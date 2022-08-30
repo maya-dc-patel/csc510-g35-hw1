@@ -19,19 +19,19 @@ text
   "abstract": "<p>Software Engineering Homework</p>"
   "author": [
     {
-      "family": "Saail Ganesh"
+    "family": "Saail Ganesh"
     }, 
     {
-      "family": "Maya Patel"
+    "family": "Maya Patel"
     }, 
     {
-      "family": "Sanjana Cheerla"
+    "family": "Sanjana Cheerla"
     }, 
     {
-      "family": "Vincent Xin"
+    "family": "Vincent Xin"
     }, 
     {
-      "family": "Sourabh Pardeshi"
+    "family": "Sourabh Pardeshi"
     }
   ], 
   "version": "DOI", 
