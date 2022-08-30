@@ -16,7 +16,7 @@ text
       ]
     ]
   }, 
-  "abstract": "<p>Software Engineering Homework</p>", 
+  "abstract": "<p>Software Engineering Homework</p>"
   "author": [
     {
       "family": "Saail Ganesh"
